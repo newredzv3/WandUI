@@ -239,7 +239,7 @@ Tab:AddTextBox({
 
 #### Paragraph
 ```lua
-Tab:AddParagraph("Paragraph", "This is a Paragraph\nSecond Line")
+Tab:AddParagraph("Paragraph","This is a Paragraph\nSecond Line")
 ```
 
 #### Discord Invite
